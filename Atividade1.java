@@ -28,7 +28,7 @@ public class Atividade1{
 		//inicio do programa
 
 
-		//Multiplica todos os dividendos
+		//Multiplica todos os dividendos e adiciona no vetor
 		while(cont < 37){
 
 			soma = n1 * n2;			
