@@ -2,7 +2,7 @@ public class Fibonacci {
     public static void main(String[] args) {
         int x = 0, y = 1;
         int soma = 0;
-        int numero = 10;
+        int numero = 15;
 
         if (numero > 0 && numero < 46) {
 
